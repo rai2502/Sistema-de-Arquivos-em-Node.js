@@ -1,0 +1,12 @@
+{
+  "name": "teste-es6-modules",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Valentina",
+  "license": "ISC",
+  "description": "Testando ES6 modules"
+}
